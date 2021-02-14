@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo3627
-Fork on GitHub641
 <h1 align="center">Hi 👋, I'm Mubeen Ahmad</h1>
 <h3 align="center">A passionate Allrounder Programmer from Pakistan</h3>
 
