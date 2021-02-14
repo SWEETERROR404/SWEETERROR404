@@ -37,8 +37,8 @@
 <a href="https://dev.to/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to/sweeterror404" height="30" width="40" /></a>
 <a href="https://twitter.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sweeterror404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sweeterror404" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sweeterror404" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sweeterror404" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15207214/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sweeterror404" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="u/sweeterror404" height="30" width="40" /></a>
 <a href="https://kaggle.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sweeterror404" height="30" width="40" /></a>
 <a href="https://fb.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sweeterror404" height="30" width="40" /></a>
 <a href="https://instagram.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sweeterror404" height="30" width="40" /></a>
@@ -65,3 +65,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweeterror404&show_icons=true&theme=dark&title_color=000000&cache_seconds=1800&locale=en" alt="sweeterror404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sweeterror404&" alt="sweeterror404" /></p>
+
