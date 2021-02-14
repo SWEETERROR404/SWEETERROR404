@@ -62,7 +62,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweeterror404&show_icons=true&locale=en&layout=compact" alt="sweeterror404" /></p>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweeterror404&show_icons=true&theme=dark&title_color=00000&cache_seconds=1800&locale=en" alt="sweeterror404" /></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sweeterror404&show_icons=true&theme=dark&title_color=00000&cache_seconds=1800&locale=en" alt="sweeterror404" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sweeterror404&" alt="sweeterror404" /></p>
