@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ahmad</h1>
-<h3 align="center"> <i>An Error is a Sweet Taste</i></h3>
+<h3 align="center"> <i> <font color="red"> An Error is a Sweet Taste</font> </i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweeterror404&label=Profile%20views&color=0e75b6&style=flat" alt="sweeterror404" /> </p>
 
